@@ -40,6 +40,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - The ASB to no longer work as a rendezvous server.
   The ASB can still register with rendezvous server as usual.
+- Reduced required confirmations of the Bitcoin Lock Tx from 2 to 1
 
 ### Fixed
 
